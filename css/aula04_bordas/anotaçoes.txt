@@ -1,0 +1,4 @@
+Ao usar o elemento border, é possivel
+definir o tamanho e em seguida
+Tipo da borda e a cor.
+

@@ -1,0 +1,12 @@
+Div's servem para definir
+e estruturar um site, são fundamentais
+nna organização do mesmo
+
+Div é um elemento do tipo block, que ocupam
+100% da tela
+
+Span é um elemento inline, que agrupa seus elementos
+em uma unica linha, ou seja lado a lado.
+
+
+Spam e Div são utilizados para criar conteiners

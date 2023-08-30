@@ -1,0 +1,24 @@
+#topo{
+
+    background: blue;
+
+}
+
+#conteudo{
+    background: red;
+}
+
+.produto{
+
+    background: grey;
+    margin: 10px;
+
+}
+
+#rodape{
+    background: green;
+}
+
+.azul{
+    color: blue;
+}

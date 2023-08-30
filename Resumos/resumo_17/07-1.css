@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Pacifico&family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,900&display=swap');
+
+
+h1{
+    display: flex;
+    justify-content: center;
+    font-family: 'Kaushan Script', cursive;
+}
+
+span{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a{
+    background-color: #649E77;
+    width: 200px;
+    height: 30px;
+    border: 1px #649E77;
+    border-radius: 5px;
+    padding-left: 25px;
+    
+}
+
+ol{
+
+    flex-direction: column;
+    padding-left: 40%;
+    
+}
+
+div{
+    
+    width: 500px;
+    background-color: #74B88B;
+    border-radius: 12px;
+    height: 600px;
+    margin: auto;
+}
+
+.h2-principal{
+    display: flex;
+    justify-content: center;
+    font-family: 'Kaushan Script';
+}
+
+body{
+    height: 100%;
+    background-color: #24382A;
+}
